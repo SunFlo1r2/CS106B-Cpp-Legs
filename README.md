@@ -23,7 +23,7 @@ This assignment consists of two parts. Click on the links below for the full ins
 
 
 - ### [Perfect Numbers](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1244/assignments/1-cpp/perfect)
-is a warmup exercise involving number theory, algorithms, and optimization. It gives you a guided transition(过渡) into C++ and the testing and debugging tools we use. You can start on this task right away — and we recommend doing so! Completing the warmup in the first few days reserves the better part of the week for the bigger second part.
+is a warmup exercise involving number theory, algorithms, and optimization. It gives you a guided transition into C++ and the testing and debugging tools we use. You can start on this task right away — and we recommend doing so! Completing the warmup in the first few days reserves the better part of the week for the bigger second part.
 - ### [Soundex Search](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1244/assignments/1-cpp/soundex)
 is a complete program that demonstrates a nifty algorithm for matching and grouping names based on their pronunciation. This program uses C++ strings, console I/O, and the `Vector` class. There is a substantial chunk of code for you to write, so get an early start to give yourself sufficient time to work through issues and reach out for help if you hit any snags.
 
